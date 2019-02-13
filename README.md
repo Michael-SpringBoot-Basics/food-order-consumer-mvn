@@ -1,4 +1,4 @@
-# food-order-consumer
+# food-order-consumer maven as a build tool
 
 Code written for the blog post:
 
